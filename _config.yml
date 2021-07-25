@@ -6,7 +6,7 @@ keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thin
 url           : https://0tist.github.io # site url
 baseurl: ""
 #baseurl       : "https://0tist.github.io" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+cover         : "https://github.com/0tist/0tist.github.io/blob/master/my_logo.001.jpeg" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
 twitter_username  : "VasudevaJayesh"
