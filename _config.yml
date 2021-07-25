@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "Jayesh S"
-title_right   : "Vasudeva" # default: ""
+title_right   : " Vasudeva" # default: ""
 description   : "Minimalist Jekyll theme for technical writing blog."
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://0tist.github.io # site url
