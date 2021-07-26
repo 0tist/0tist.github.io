@@ -29,6 +29,7 @@ $light-gray-color: #ccc;
 $primary-color: #EEEEEE;
 $action-color: $primary-color;
 $dark-blue-color: #222831;
+$medium-blue-color: #0F4C75;
 $greyish-something: #393E46;
 $light-blue: #00ADB5;
 $white-color-but-mine: #EEEEEE;
@@ -49,7 +50,7 @@ $secondary-background-color: tint($base-border-color, 80%);
 
 // Forms
 // $form-box-shadow: inset 0 1px 3px rgba($black-color, 0.06);
-$form-box-shadow: inset 0 1px 3px rgba($medium-gray-color, 0.06);
+$form-box-shadow: inset 0 1px 3px rgba($medium-blue-color, 0.06);
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
 
 // Animations
