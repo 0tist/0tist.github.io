@@ -78,10 +78,10 @@ picture {
 blockquote {
   padding: $base-spacing 0 $base-spacing $base-spacing;
   margin: $base-spacing 0;
-  color: $dark-gray-color;
+  color: $blockquote-txt-color;
   line-height: 1.8;
-  border-left: $small-spacing solid $light-gray-color;
-  background-color: lighten($light-gray-color, 15%);
+  border-left: $small-spacing solid $blockquote-bg-color;
+  background-color: lighten($blockquote-bg-color, 15%);
   p {
     margin: 0;
   }
