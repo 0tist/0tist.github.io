@@ -15,7 +15,7 @@ I'm often asked what are some good resources to study deep learning or machine l
 1. [Andrew Ng's course](https://www.coursera.org/learn/machine-learning)
 	I started with this and so did million other people, so yea......
 1. [Fast.ai](https://course.fast.ai/)
-	Their course gives head start to people working in industry wanting to use deep learning. Their tutorials are based on the library [fastai](https://docs.fast.ai/). The community is super awesome and supportive. Checkout discussions at their [forum](https://forums.fast.ai/) and [discord](https://discord.gg/gJCzcJAg)
+	Their course gives head start to people working in industry wanting to use deep learning. Their tutorials are based on the library [fastai](https://docs.fast.ai/). The community is super awesome and supportive. Checkout discussions at their [forum](https://forums.fast.ai/) and [discord](https://discord.gg/gJCzcJAg).  
 <!-- ![yt](http://octodex.github.com/images/minion.png) -->
 <!-- ![yt](https://www.freepnglogos.com/uploads/video-youtube-icon-27.png) -->
 <img style="width: 18px; height: 15px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">
