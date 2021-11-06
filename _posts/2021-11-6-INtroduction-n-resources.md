@@ -16,7 +16,7 @@ I'm often asked what are some good resources to study deep learning or machine l
 	I started with this and so did million other people, so yea......
 1. [Fast.ai](https://course.fast.ai/)
 	Their course gives head start to people working in industry wanting to use deep learning. Their tutorials are based on the library [fastai](https://docs.fast.ai/). The community is super awesome and supportive. Checkout discussions at their [forum](https://forums.fast.ai/) and [discord](https://discord.gg/gJCzcJAg)  
-	<img style="width: 20px; height: 15px;" src = 'https://github.com/0tist/0tist.github.io/blob/master/assets/images/yt.png'>
+	<img style="width: 20px; height: 15px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/yt.png">
 2. [PyTorch](https://pytorch.org/get-started/locally/)
 	Fastai's codebase is based on PyTorch. It's one of the highly used frameworks and has awesome tutorials online with an active [community](https://discuss.pytorch.org/).
 	Most of your questions would already be answered there. If you are exploring that means you wish to create models more intuitively and maybe create custom pipelines.
