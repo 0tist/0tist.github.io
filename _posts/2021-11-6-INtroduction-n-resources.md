@@ -12,15 +12,13 @@ I'm often asked what are some good resources to study deep learning or machine l
 
 
 ## For Starters
-<ol>
-<li> [Andrew Ng's course](https://www.coursera.org/learn/machine-learning)
-	I started with this and so did million other people, so yea...... </li>
-<li> [Fast.ai](https://course.fast.ai/)
+1. [Andrew Ng's course](https://www.coursera.org/learn/machine-learning)
+	I started with this and so did million other people, so yea...... 
+2. [Fast.ai](https://course.fast.ai/)
 	Their course gives head start to people working in industry wanting to use deep learning. Their tutorials are based on the library [fastai](https://docs.fast.ai/). The community is super awesome and supportive. Checkout discussions at their [forum](https://forums.fast.ai/) and [discord](https://discord.gg/gJCzcJAg).  
-<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png"> </li>
-<li> [PyTorch](https://pytorch.org/get-started/locally/)
+<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png"> 
+3. [PyTorch](https://pytorch.org/get-started/locally/)
 	Fastai's codebase is based on PyTorch. It's one of the highly used frameworks and has awesome tutorials online with an active [community](https://discuss.pytorch.org/).
-	Most of your questions would already be answered there. If you are exploring that means you wish to create models more intuitively and maybe create custom pipelines </li>
+	Most of your questions would already be answered there. If you are exploring that means you wish to create models more intuitively and maybe create custom pipelines 
 
-</ol>
 ## Digging Deeper
