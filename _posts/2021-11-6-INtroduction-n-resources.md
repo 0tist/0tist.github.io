@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction-n-Resources"
+title: "Introduction and Resources"
 comments: true
 description: "A Blog post to share my learnings and insights as I code more, read more and grow more"
 ---
