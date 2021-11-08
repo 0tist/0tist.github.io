@@ -12,20 +12,20 @@ I plan to make this an open source collection of all courses related to deep lea
 ## For Starters
 1. [Andrew Ng's course](https://www.coursera.org/learn/machine-learning)   
 	I started with this and so did million other people, so yea...... 
-	There's a YouTube playlist but I would suggest auditing the course on coursera or asking for coursera aid.
+	There's a YouTube playlist but I would suggest auditing the course on coursera or asking for coursera aid.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 2. [Fast.ai](https://course.fast.ai/)  
 	Their course gives head start to people working in industry wanting to use deep learning. Their tutorials are based on the library [fastai](https://docs.fast.ai/). The community is super awesome and supportive. Checkout discussions at their [forum](https://forums.fast.ai/) and [discord](https://discord.gg/gJCzcJAg).  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLfYUBJiXbdtRL3FMB3GoWHRI8ieU6FhfM)
 3. [PyTorch](https://pytorch.org/get-started/locally/)  
 	Fastai's codebase is based on PyTorch. It's one of the highly used frameworks and has awesome tutorials online with an active [community](https://discuss.pytorch.org/).
-	Most of your questions would already be answered there. If you are exploring that means you wish to create models more intuitively and maybe create custom pipelines 
+	Most of your questions would already be answered there. If you are exploring that means you wish to create models more intuitively and maybe create custom pipelines.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PL_lsbAsL_o2CTlGHgMxNrKhzP97BaG9ZN)
 4. [NYU - Deep Learning course](https://atcold.github.io/NYU-DLSP21/)  
-	The one of the most popular courses freely available online. I love the visualizations in the blogs and [Alfredo](https://atcold.github.io/)'s practical tutorials. Another plus point of the tutorial is it's practical. One gets to learn theory along with the syntax and design of the model.
+	The one of the most popular courses freely available online. I love the visualizations in the blogs and [Alfredo](https://atcold.github.io/)'s practical tutorials. Another plus point of the tutorial is it's practical. One gets to learn theory along with the syntax and design of the model.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
 5. [Intro to Deep Learning](http://introtodeeplearning.com/)  
-	This is a diverse course, covering a lot of applications of deep learning with concepts.
+	This is a diverse course, covering a lot of applications of deep learning with concepts.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## Digging Deeper
