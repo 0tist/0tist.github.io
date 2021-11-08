@@ -32,11 +32,11 @@ I plan to make this an open source collection of all courses related to deep lea
 1. [Designing, Visualizing and Understanding Deep Neural Networks](https://cs182sp21.github.io/)  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 2. [Geometric Deep Learning](https://geometricdeeplearning.com/lectures/)  
-	This course is based on [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) et al's [Proto Book]((https://arxiv.org/abs/2104.13478)) which discusses about exploiting lower-dimensional features to study and improve neural networks.
+	This course is based on [Michael Bronstein](https://www.imperial.ac.uk/people/m.bronstein) et al's [Proto Book]((https://arxiv.org/abs/2104.13478)) which discusses about exploiting lower-dimensional features to study and improve neural networks.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
 	
 3. [Probabilistic Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/)  
-	This course provides an introduction to core concepts of machine learning from the probabilistic perspective
+	This course provides an introduction to core concepts of machine learning from the probabilistic perspective.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 	### Computer Vision
 	1. [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
