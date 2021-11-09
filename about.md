@@ -11,6 +11,8 @@ permalink: /about/
 
 # What am I upto these days?
 I'm currently a research intern at [Dr. Arnab Barik's Lab](https://sites.google.com/view/molecules-cells-and-circuits/home) analyzing behavior in mice when put on a Hot/Cold Plate. Here's a glimpse of what we've done:  
+![](https://github.com/0tist/0tist.github.io/blob/master/assets/images/dino.gif)
+![](https://github.com/0tist/0tist.github.io/blob/master/assets/images/nose_pos.gif)
 <img style="width: 300px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/dino.gif">
 <img style="width: 300px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/nose_pos.gif">  
 I'm currently working on classifying animal behavior and with any luck hoping to find anomalies in them.
