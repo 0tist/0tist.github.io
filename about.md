@@ -7,7 +7,7 @@ permalink: /about/
 ## Hey ! How you doing? This is Jayesh Vasudeva
  
 # Who am I?
- I'm an undergraduate student at Netaji Subhas University of technology(erstwhile Netaji Subhas Institue of technology). I am on a self-learning journey to absorb as much as I can about the Data science, Deep Learning and Software development in general. I spent most of my days reading reearch papers and implementing them,as a result I developed an interest in Research and Development. I'm always interested in taking on new projects and participating on online contests and events, besides that I'm an active member of IEEE Delhi Section and Computer Science Chapter chair at IEEE NSUT student chapter. We as a team, are constantly looking up for new open source projects and resources to develop and contribute in amazing projects.
+I'm an undergraduate student at Netaji Subhas University of technology(erstwhile Netaji Subhas Institue of technology). I am on a self-learning journey to absorb as much as I can about the Data science, Deep Learning and Software development in general. I spent most of my days reading reearch papers and implementing them,as a result I developed an interest in Research and Development. I'm always interested in taking on new projects and participating on online contests and events, besides that I'm an active member of IEEE Delhi Section and Computer Science Chapter chair at IEEE NSUT student chapter. We as a team, are constantly looking up for new open source projects and resources to develop and contribute in amazing projects.
  <b> I love mathematics and Software </b> and their intersection is beatiful.
 ![]({{site.baseurl}}/images/profile_pic.png) 
 
