@@ -11,8 +11,8 @@ permalink: /about/
 
 # What am I upto these days?
 I'm currently a research intern at [Dr. Arnab Barik's Lab](https://sites.google.com/view/molecules-cells-and-circuits/home) analyzing behavior in mice when put on a Hot/Cold Plate. Here's a glimpse of what we've done:  
-<img style="width: 18px; height: 18px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/dino.gif">
-<img style="width: 18px; height: 18px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/nose_pos.gif">  
+<img style="width: 100px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/dino.gif">
+<img style="width: 100px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/nose_pos.gif">  
 I'm currently working on classifying animal behavior and with any luck hoping to find anomalies in them.
 Other than that, I'm also gaining interest in Neuroengineering, especially engineering for prosthesis. I'm currently in my final year at Netaji Subhas University of Technology(erstwhile Netaji Subhas Institute of Technology) and planning to do MSc or PhD in Deep Learning, Computational Neuroscience, Neuroengineering or related field(s).
 If you wish to know more about the projects, I will be posting blogs on them. Wish me luck!  
