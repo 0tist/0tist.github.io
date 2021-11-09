@@ -16,7 +16,7 @@ I'm currently a research intern at [Dr. Arnab Barik's Lab](https://sites.google.
 <!-- <img style="width: 300px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/dino.gif">
 <img style="width: 300px;" src = "https://github.com/0tist/0tist.github.io/blob/master/assets/images/nose_pos.gif">   -->
 
-https://user-images.githubusercontent.com/42416623/140929162-2f5bd56d-43cb-4c03-8206-c1a0d3796f37.mp4
+<img style ='width: 300px;' src='https://user-images.githubusercontent.com/42416623/140929162-2f5bd56d-43cb-4c03-8206-c1a0d3796f37.mp4'>
 
 
 I'm currently working on classifying animal behavior and with any luck hoping to find anomalies in them.
