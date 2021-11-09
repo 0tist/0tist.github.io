@@ -37,19 +37,18 @@ I plan to make this an open source collection of all courses related to deep lea
 	
 3. [Probabilistic Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/)  
 	This course provides an introduction to core concepts of machine learning from the probabilistic perspective.  
-	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)  
 	### Computer Vision
 	1. [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
 		This course discusses Convolutional neural networks(CNN) and CNN based models along with varied set of tasks that CNNs can be used to solve.  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 	2. [CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/)  
-		This course mostly discusses about 3D computer vision(estimating poses, shapes, etc). They also teach about camera models and stereo vision.
-		
+		This course mostly discusses about 3D computer vision(estimating poses, shapes, etc). They also teach about camera models and stereo vision.  
 	### Natural Language Processing
 	1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 	2. [Hugging Face NLP Course](https://huggingface.co/course/chapter1?fw=pt)  
-		Hugging face is the go-to library for most of the people doing NLP. They have awesome support of datasets, pre-trained model and in this course they cover how to make best use of the library
+		Hugging face is the go-to library for most of the people doing NLP. They have awesome support of datasets, pre-trained model and in this course they cover how to make best use of the library.  
 	### Reinforcement Learning
 	1. [Reinforcement Learning Course | Deepmind & UCL](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)  
 		From the link:   
