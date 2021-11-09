@@ -38,7 +38,7 @@ I plan to make this an open source collection of all courses related to deep lea
 3. [Probabilistic Machine Learning](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methoden-des-maschinellen-lernens/lehre/probabilistic-machine-learning/)  
 	This course provides an introduction to core concepts of machine learning from the probabilistic perspective.  
 	[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)  
-	<h4>Computer Vision</h4>
+	<h4>Computer Vision</h4>  
 	1. [CS231n Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)  
 		This course discusses Convolutional neural networks(CNN) and CNN based models along with varied set of tasks that CNNs can be used to solve.  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
@@ -47,12 +47,12 @@ I plan to make this an open source collection of all courses related to deep lea
 	3. [Computer Vision by Prof. Andreas Geiger](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)  
 		This course will provide an introduction to computer vision, with topics including image formation, camera models, camera calibration, feature detection and matching, motion estimation, geometry reconstruction, object detection and tracking, and scene understanding.  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)  
-	<h4>Natural Language Processing</h4>
+	<h4>Natural Language Processing</h4>  
 	1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
 	2. [Hugging Face NLP Course](https://huggingface.co/course/chapter1?fw=pt)  
 		Hugging face is the go-to library for most of the people doing NLP. They have awesome support of datasets, pre-trained model and in this course they cover how to make best use of the library.  
-	<h4>Reinforcement Learning</h4>
+	<h4>Reinforcement Learning</h4>  
 	1. [Reinforcement Learning Course | Deepmind & UCL](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)  
 		From the link:   
 		Comprising 13 lectures, the series covers the fundamentals of reinforcement learning and planning in sequential decision problems, before progressing to more advanced topics and modern deep RL algorithms. It gives students a detailed understanding of various topics, including Markov Decision Processes, sample-based learning algorithms (e.g. (double) Q-learning, SARSA), deep reinforcement learning, and more. It also explores more advanced topics like off-policy learning, multi-step updates and eligibility traces, as well as conceptual and practical considerations in implementing deep reinforcement learning algorithms such as rainbow DQN.  
