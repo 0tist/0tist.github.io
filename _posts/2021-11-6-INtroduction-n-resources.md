@@ -45,10 +45,8 @@ I plan to make this an open source collection of all courses related to deep lea
 	2. [CS231A: Computer Vision, From 3D Reconstruction to Recognition](https://web.stanford.edu/class/cs231a/)  
 		This course mostly discusses about 3D computer vision(estimating poses, shapes, etc). They also teach about camera models and stereo vision.
 	3. [Computer Vision by Prof. Andreas Geiger](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)  
-		This course will provide an introduction to computer vision, with topics including image formation, camera models, camera calibration, feature detection and matching, motion estimation, geometry reconstruction, object detection and tracking, and scene understanding.
-		
+		This course will provide an introduction to computer vision, with topics including image formation, camera models, camera calibration, feature detection and matching, motion estimation, geometry reconstruction, object detection and tracking, and scene understanding.  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)  
-		
 	### Natural Language Processing
 	1. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)  
 		[<img style="width: 18px; height: 18px;" src = "https://www.freepnglogos.com/uploads/video-youtube-icon-27.png">](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)
