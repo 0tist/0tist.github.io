@@ -12,3 +12,8 @@
     background-color: #222831;
   }
 }
+@media (maxwidth: 615px){
+  .site-header {
+    box-sizing: border-box;
+  }
+}
