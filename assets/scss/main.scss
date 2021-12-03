@@ -6,3 +6,9 @@
 
 @import "layout";
 @import "syntax-highlighting";
+
+@media (max-width: 600px) {
+  .post-item {
+    background-color: #222831;
+  }
+}
