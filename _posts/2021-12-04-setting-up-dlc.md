@@ -19,7 +19,7 @@ This is an attempt to make it more general for varied Ubuntu versions and GPUs.
 		- Followed by Version
 	- Lastly, Installer Type, Since i'm installing it locally so the install type is `deb(local)`
 Doing this will provide you with a list of commands, For example: 
-![[Screenshot 2021-12-04 at 12.08.58 PM.png]]
+![](https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/cuda-com.png)
 After following these commands you'll observe 2 cuda folders in `/usr/local/`
 _Optional_ commands:
 ```
@@ -80,7 +80,7 @@ tf.test.is_gpu_available()
 	- You might have to create an account and participate in a survey if you haven't already done that.
 	- Post downloading it, you can install the software just by double clicking on it.
 			-`software install` will pop up and it will look something like this:
-			![[Screenshot 2021-12-04 at 2.36.37 PM.png]]
+			![](https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/sft_install.png)
 	- To verify the aforementioned installation look for `libcudnn.so.8.3.1` or similar named file in `/usr/lib/x86_64-linux-gnu`.
 	- Now `cd` into all the `cuda*/lib64` folder in `/usr/local/`
 		- For example: `/usr/local/cuda-11/lib64`
