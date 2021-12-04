@@ -69,8 +69,8 @@ nvidia-smi
 import tensorflow as tf
 tf.test.is_gpu_available()
 ```
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`If` this returns _True_ your setup is COMPLETE!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Else`you just need to wait a lil longer and we'll surely address this
+`If` this returns _True_ your setup is COMPLETE!
+`Else`you just need to wait a lil longer and we'll surely address this
 - You might be getting an error like this:
 	```
 	ImportError: libcudart.so.8.0: cannot open shared object file: No such file or directory
