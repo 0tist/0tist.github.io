@@ -69,7 +69,7 @@ nvidia-smi
 import tensorflow as tf
 tf.test.is_gpu_available()
 ```
-`If` this returns _True_ your setup is COMPLETE!
+`If` this returns _True_ your setup is COMPLETE! <br>
 `Else`you just need to wait a lil longer and we'll surely address this
 - You might be getting an error like this:
 	```
