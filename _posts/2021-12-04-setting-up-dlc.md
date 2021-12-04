@@ -4,7 +4,6 @@ title: "Setting up DeepLabCut with CUDA in Ubuntu"
 comments: true
 description: "Setting up cuda and cudnn with wxpython for deeplabcut in ubuntu 20.04(other versions also supported)"
 ---
-# Setting up DeepLabCut with CUDA in Ubuntu
 I've struggles quite a bit trying to install the right CUDA version and some of the dependencies that are required Tensorflow to work with GPU.
 As a result, I decided to make a recipe for my future self and others.
 Most of the steps that I've mentioned below are from https://deeplabcut.github.io/DeepLabCut/docs/recipes/installTips.html 
