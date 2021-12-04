@@ -29,7 +29,7 @@ sass:
 
 # Author settings
 author:
-  name     : "John Doe"
+  name     : "Jayesh Vasudeva"
 
 plugins:
   - jekyll-sitemap
