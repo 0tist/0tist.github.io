@@ -55,9 +55,9 @@ nvidia-smi
 	-pip:
 		- deeplabcut
 ```
-- run `conda env create -f DEEPLABCUT.yaml`
+- Run `conda env create -f DEEPLABCUT.yaml`
 - `conda activate DEEPLABCUT`
-- after you are done building the environment and installing deeplabcut within the environment, the next obstacle that we might face is GUI not working. DeepLabCut uses wxPython for its GUI, but wxPython doesn't have a general wheel for all Linux destros, so we need to install a specific wheel, which you can look up on https://extras.wxpython.org/wxPython4/extras/linux/gtk3, since I'm using Ubuntu 20.04, I'll run `pip install -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-20.04 wxPython`
+- After you are done building the environment and installing deeplabcut within the environment, the next obstacle that we might face is GUI not working. DeepLabCut uses _wxPython_ for its GUI, but wxPython doesn't have a general wheel for all Linux destros, so we need to install a specific wheel, which you can look up on https://extras.wxpython.org/wxPython4/extras/linux/gtk3, since I'm using Ubuntu 20.04, I'll run `pip install -f https://extras.wxpython.org/wxPython4/extras/linux/gtk3/ubuntu-20.04 wxPython`
 - `conda install -c conda-forge wxpython`
 - To verify the installation run `python -m deeplabcut` which should launch the DLC GUI.
 
@@ -82,7 +82,7 @@ tf.test.is_gpu_available()
 	- To verify the aforementioned installation look for `libcudnn.so.8.3.1` or similar named file in `/usr/lib/x86_64-linux-gnu`.
 - Now `cd` into all the `cuda*/lib64` folder in `/usr/local/`
 	- For example: `/usr/local/cuda-11/lib64`
-- and enter the following command
+- And enter the following command
 ```
 sudo ln -s /usr/lib/x86_64-linux-gnu/libcudnn.so.8.3.1 libcudnn.so.8
 sudo ln -s /usr/lib/x86_64-linux-gnu/libcudnn.so.8.3.1 libcudnn.so
