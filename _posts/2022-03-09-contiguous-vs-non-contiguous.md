@@ -88,7 +88,7 @@ It's intuitive enough to state that changing the metadata helps us reduce the co
 
 Although the elements reside in a continuous block of memory, it's the way they are accessed that makes the tensors non-contiguous. As you can see in the visualisation, the strides are dispersed and the following elements of the tensor along a row isn't the following element in the said memory. Thus, making it non-contiguous. One can readjust the striding by using `.contiguous()`.
 
-````python
+```python
 In []: x.T.contiguous().stride()
 Out[]: (6, 1)
 ```
