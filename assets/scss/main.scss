@@ -7,12 +7,14 @@
 @import "layout";
 @import "syntax-highlighting";
 
-@media (max-width: 600px) {
+// @media (max-width: 600px) {
+@media (max-width: 700px) {
   .post-item {
     background-color: #222831;
   }
 }
-@media (maxwidth: 615px){
+// @media (maxwidth: 615px){
+@media (maxwidth: 715px){
   .site-header {
     box-sizing: border-box;
   }
