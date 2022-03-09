@@ -12,7 +12,7 @@ Memory in RAM is distributed for two umbrella processes - 1) Operating System(OS
 
 Contiguous blocks can further be classified to static and dynamic blocks, aka Fixed size partition and Variable size partition, respectively.
 
-<img style = 'height:200px;' src = "https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/contiguous-vs-non_contiguous.gif">
+<center><img style = 'height:400px;' src = "https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/contiguous-vs-non_contiguous.gif"></center>
 
 # torch.Tensor.is_contiguous()
 Torch tensors in order to save some compute changes the metadata of the tensor, thus changing the corresponding attributes. There are some interesting observations on _stride_ of the tensor as we explore `.transpose() / .T`.
