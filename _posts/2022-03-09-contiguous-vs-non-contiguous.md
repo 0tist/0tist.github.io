@@ -82,7 +82,7 @@ Following the same angle, we can say that the pointer moves 1 step in memory to 
 
 It's intuitive enough to state that changing the metadata helps us reduce the compute for transpose of the matrix.
 
-> :warning: The memory allocated to the tensor is actually a continuous block, it's just the stride that makes the tensor 'non-contiguous'. Don't let the term mislead you.
+> ⚠️ The memory allocated to the tensor is actually a continuous block, it's just the stride that makes the tensor 'non-contiguous'. Don't let the term mislead you.
 
 ```python
 In []: x.T.contiguous().stride()
