@@ -94,7 +94,7 @@ Out[]: (6, 1)
 ```
 
 ## References
-https://www.educative.io/edpresso/contiguous-memory </n>
-https://stackoverflow.com/questions/48915810/pytorch-what-does-contiguous-do </n>
-https://discuss.pytorch.org/t/contigious-vs-non-contigious-tensor/30107/2 </n>
+https://www.educative.io/edpresso/contiguous-memory <br>
+https://stackoverflow.com/questions/48915810/pytorch-what-does-contiguous-do <br>
+https://discuss.pytorch.org/t/contigious-vs-non-contigious-tensor/30107/2 <br>
 
