@@ -84,8 +84,8 @@ It's intuitive enough to state that changing the metadata helps us reduce the co
 
 > ⚠️ The memory allocated to the tensor is actually a continuous block, it's just the stride that makes the tensor 'non-contiguous'. Don't let the term mislead you.
 
-<center><img style = 'height:200px;' src = "https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/contiguous.gif"><img style = 'height:200px;' src = "https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/non-contiguous.gif"></center>
-
+<center><img style = 'height:300px;' src = "https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/contiguous.gif"><img style = 'height:300px;' src = "https://raw.githubusercontent.com/0tist/0tist.github.io/master/assets/images/non-contiguous.gif"></center>
+Since the steps
 ```python
 In []: x.T.contiguous().stride()
 Out[]: (6, 1)
