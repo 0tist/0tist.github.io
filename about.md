@@ -23,4 +23,4 @@ Instagram: @jay.not.j
 Twitter: @VasudevaJayesh  
 Wish to collaborate? mail me at jayesh0vasudeva@gmail.com or [LinkedIn](https://www.linkedin.com/in/jayesh-vasudeva-2395a218a/)  
 
-Also, check out my [resume](https://drive.google.com/file/d/1MvE-aZ6pVSC_E8WtoMoEF1wNUdMH2Pdb/view?usp=sharing)
+Also, check out my [resume](https://0tist.github.io/resume/Jayesh_CV.pdf)
