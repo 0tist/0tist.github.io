@@ -8,7 +8,7 @@ description: "What are contiguous and non-contiguous tensors in PyTorch and what
 Torch tensors have a slightly different use of the term _contiguous_. Firstly, let's understand what's contiguous memory is and then we will move on to understanding how torch tensors interpret it.
 
 # Contiguous memory VS Non-Contiguous memory
-Memory in RAM is distributed for two umbrella processes - 1) Operating System(OS) 2) User Processes. Memory used by OS processes is reserved, the rest of the memory is for user processes, such as launching an application, compiling code, etc. One way to allocate the said memory is through assigning continuous chunks of memory, rather than allocating dispersed cells.
+Memory in RAM is distributed for two umbrella processes - 1) Operating System(OS) 2) User Processes. Memory used by OS processes is reserved, the rest of the memory is for user processes, such as launching an application, compiling code, etc. One way to allocate the said memory is through assigning continuous chunks of memory called contiguous memory, rather than allocating dispersed cells.
 
 Contiguous blocks can further be classified to static and dynamic blocks, aka Fixed size partition and Variable size partition, respectively.
 
